@@ -1,0 +1,5 @@
+module CSnipsterCore [system] {
+    header "../../core/include/snipster_core.h"
+    link "snipster_core"
+    export *
+}
